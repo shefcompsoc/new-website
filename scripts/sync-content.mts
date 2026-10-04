@@ -120,7 +120,8 @@ async function main(): Promise<void> {
   await writeFile(EVENTS_JSON, `${JSON.stringify(events, null, 2)}\n`, "utf8");
 
   await mkdir(path.dirname(CALENDAR_ICS), { recursive: true });
-  await writeFile(CALENDAR_ICS, buildCalendar(events, siteUrl), "utf8");
+  const lastEdit = events.reduce((latest, event) => (event.updatedAt > latest ? event.updatedAt : latest), "2020-01-01T00:00:00Z");
+  await writeFile(CALENDAR_ICS, buildCalendar(events, siteUrl, new Date(lastEdit)), "utf8");
 
   console.log("");
   console.log(`Wrote ${path.relative(root, EVENTS_JSON)}`);

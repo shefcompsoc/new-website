@@ -1,0 +1,44 @@
+name: Notion sync
+
+on:
+  schedule:
+    - cron: "15 * * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: notion-sync
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+      - run: npm ci
+      - run: npm run sync:content
+        env:
+          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+          NOTION_EVENTS_DB_ID: 3618a4ec2ff080f397a9e1d5641881d0
+          NEXT_PUBLIC_SITE_URL: https://shefcompsoc.uk
+      - id: diff
+        run: |
+          git add -A src/data public
+          git diff --cached --quiet || echo "changed=true" >> "$GITHUB_OUTPUT"
+      - if: steps.diff.outputs.changed == 'true'
+        run: |
+          npm test
+          npm run lint
+          npm run build
+      - if: steps.diff.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: sync content from notion"
+          git push
