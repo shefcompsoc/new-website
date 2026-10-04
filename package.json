@@ -9,7 +9,8 @@
     "lint": "eslint",
     "sync:content": "node --env-file-if-exists=.env.local scripts/sync-content.mts",
     "sync:sponsors": "node --env-file-if-exists=.env.local scripts/sync-sponsors.mts",
-    "test": "node --test \"scripts/**/*.test.mts\" \"src/**/*.test.mts\""
+    "test": "node --test \"scripts/**/*.test.mts\" \"src/**/*.test.mts\"",
+    "test:routes": "node scripts/check-routes.mts"
   },
   "dependencies": {
     "@react-three/fiber": "^9.7.0",
