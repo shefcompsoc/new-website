@@ -225,10 +225,16 @@ p { text-wrap: pretty; }
 .photo-pair img { border-radius: 24px; aspect-ratio: 1.4; object-fit: cover; }
 .photo-pair figcaption { margin-top: 15px; font-size: 12px; color: var(--color-muted); }
 .committee-grid { display: grid; grid-template-columns: repeat(auto-fill,minmax(230px,1fr)); gap: 28px; }
-.committee-portrait { background: linear-gradient(145deg,var(--color-glass-tint),var(--color-line)); display: grid; place-items: center; border-radius: 24px; aspect-ratio: 1; margin-bottom: 22px; overflow: hidden; }
-.committee-portrait > span { font-family: var(--font-geist-mono),monospace; font-size: 80px; color: var(--color-brand-ink); opacity: .65; }
+.committee-portrait { background: var(--color-brand); display: grid; place-items: center; border-radius: 24px; aspect-ratio: 1; margin-bottom: 22px; overflow: hidden; }
+.committee-portrait > span { font-family: var(--font-geist-mono),monospace; font-size: 80px; font-weight: 600; color: var(--color-surface); }
 .committee-portrait img { width: 100%; height: 100%; object-fit: cover; }
 .committee-card h3 { margin-top: 10px; }
+.committee-links { display: flex; flex-wrap: wrap; gap: 4px 16px; }
+.year-list { list-style: none; display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 260px), 1fr)); gap: 16px; }
+.year-list a { display: flex; flex-direction: column; gap: 6px; padding: 22px 24px; border: 1px solid var(--color-line); border-radius: 20px; background: var(--color-surface); color: inherit; text-decoration: none; }
+.year-list a:hover { border-color: var(--color-brand-ink); }
+.year-list strong { font-size: 24px; }
+.year-list span { font-size: 14px; color: var(--color-muted); }
 .resource-row { display: grid; grid-template-columns: 115px 1fr auto; align-items: center; gap: 24px; padding: 28px 0; border-top: 1px solid var(--color-line); }
 .resource-row h3 { font-size: 21px; }
 .resource-row p { font-size: 12px; color: var(--color-muted); margin-top: 10px; }

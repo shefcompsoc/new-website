@@ -1,0 +1,956 @@
+[
+  {
+    "year": "2024-25",
+    "members": [
+      {
+        "id": "erik-lippert",
+        "name": "Erik Lippert",
+        "role": "President",
+        "imageUrl": "/committee/past/2024-25/erik-lippert.webp",
+        "socials": {
+          "LinkedIn": "https://www.linkedin.com/in/erik-lippert/"
+        }
+      },
+      {
+        "id": "eamonn-rolander",
+        "name": "Eamonn Rolander",
+        "role": "Vice President",
+        "imageUrl": "/committee/past/2024-25/eamonn-rolander.webp",
+        "socials": {
+          "LinkedIn": "https://www.linkedin.com/in/eamonn-rolander/"
+        }
+      },
+      {
+        "id": "prarthana-madan",
+        "name": "Prarthana Madan",
+        "role": "Inclusions Officer",
+        "imageUrl": "/committee/past/2024-25/prarthana-madan.webp",
+        "socials": {}
+      },
+      {
+        "id": "jason-kambites",
+        "name": "Jason Kambites",
+        "role": "Treasurer",
+        "imageUrl": "/committee/past/2024-25/jason-kambites.webp",
+        "socials": {}
+      },
+      {
+        "id": "aimee-barbrook",
+        "name": "Aimee Barbrook",
+        "role": "Secretary",
+        "imageUrl": "/committee/past/2024-25/aimee-barbrook.webp",
+        "socials": {}
+      },
+      {
+        "id": "dylan-manning",
+        "name": "Dylan Manning",
+        "role": "Technical Officer",
+        "imageUrl": "/committee/past/2024-25/dylan-manning.webp",
+        "socials": {
+          "LinkedIn": "https://www.linkedin.com/in/dylan-manning-73a5ab287/"
+        }
+      },
+      {
+        "id": "lucas-madle",
+        "name": "Lucas Madle",
+        "role": "Social Events Coordinator",
+        "imageUrl": "/committee/past/2024-25/lucas-madle.webp",
+        "socials": {}
+      },
+      {
+        "id": "akeylah-hollow",
+        "name": "Akeylah Hollow",
+        "role": "Technical Events Coordinator",
+        "imageUrl": "/committee/past/2024-25/akeylah-hollow.webp",
+        "socials": {
+          "LinkedIn": "https://www.linkedin.com/in/akeylah-h-3a4967206/"
+        }
+      },
+      {
+        "id": "matt-savin",
+        "name": "Matt Savin",
+        "role": "Hackathons Coordinator",
+        "imageUrl": "/committee/past/2024-25/matt-savin.webp",
+        "socials": {}
+      },
+      {
+        "id": "shalev-lau",
+        "name": "Shalev Lau",
+        "role": "Hackathons Coordinator",
+        "imageUrl": "/committee/past/2024-25/shalev-lau.webp",
+        "socials": {}
+      },
+      {
+        "id": "owen-cook",
+        "name": "Owen Cook",
+        "role": "Sports Officer",
+        "imageUrl": "/committee/past/2024-25/owen-cook.webp",
+        "socials": {}
+      },
+      {
+        "id": "noor-elreidy",
+        "name": "Noor Elreidy",
+        "role": "Publicity Officer",
+        "imageUrl": "/committee/past/2024-25/noor-elreidy.webp",
+        "socials": {}
+      },
+      {
+        "id": "adam-drummond",
+        "name": "Adam Drummond",
+        "role": "Publicity Officer",
+        "imageUrl": "/committee/past/2024-25/adam-drummond.webp",
+        "socials": {}
+      },
+      {
+        "id": "benjamin-smith",
+        "name": "Benjamin Smith",
+        "role": "Sponsor Liaison",
+        "imageUrl": "/committee/past/2024-25/benjamin-smith.webp",
+        "socials": {}
+      },
+      {
+        "id": "leandra-de-kiewit",
+        "name": "Leandra De Kiewit",
+        "role": "Quartermaster",
+        "imageUrl": "/committee/past/2024-25/leandra-de-kiewit.webp",
+        "socials": {}
+      },
+      {
+        "id": "jasmine-hui-ping",
+        "name": "Jasmine Hui Ping",
+        "role": "4th Year Rep",
+        "imageUrl": "/committee/past/2024-25/jasmine-hui-ping.webp",
+        "socials": {}
+      },
+      {
+        "id": "luca-devlin",
+        "name": "Luca Devlin",
+        "role": "3rd Year Rep",
+        "imageUrl": "/committee/past/2024-25/luca-devlin.webp",
+        "socials": {}
+      },
+      {
+        "id": "emma-spruce",
+        "name": "Emma Spruce",
+        "role": "2nd Year Rep",
+        "imageUrl": "/committee/past/2024-25/emma-spruce.webp",
+        "socials": {}
+      },
+      {
+        "id": "jack-gledhill",
+        "name": "Jack Gledhill",
+        "role": "1st Year Rep",
+        "imageUrl": "/committee/past/2024-25/jack-gledhill.webp",
+        "socials": {
+          "LinkedIn": "https://www.linkedin.com/in/jackgledhill/",
+          "GitHub": "https://github.com/Jack-Gledhill"
+        }
+      },
+      {
+        "id": "euan-jones",
+        "name": "Euan Jones",
+        "role": "1st Year Rep",
+        "imageUrl": "/committee/past/2024-25/euan-jones.webp",
+        "socials": {}
+      }
+    ]
+  },
+  {
+    "year": "2023-24",
+    "members": [
+      {
+        "id": "jacob-cummins",
+        "name": "Jacob Cummins",
+        "role": "President",
+        "imageUrl": "/committee/past/2023-24/jacob-cummins.webp",
+        "socials": {
+          "LinkedIn": "https://www.linkedin.com/in/jacob-cummins-71215918b/"
+        }
+      },
+      {
+        "id": "eamonn-rolander",
+        "name": "Eamonn Rolander",
+        "role": "Vice President",
+        "imageUrl": "/committee/past/2023-24/eamonn-rolander.webp",
+        "socials": {
+          "LinkedIn": "https://www.linkedin.com/in/eamonn-rolander/"
+        }
+      },
+      {
+        "id": "olivia",
+        "name": "Olivia",
+        "role": "Inclusions Officer",
+        "imageUrl": "/committee/past/2023-24/olivia.webp",
+        "socials": {}
+      },
+      {
+        "id": "natalie-roberts",
+        "name": "Natalie Roberts",
+        "role": "Treasurer",
+        "imageUrl": "/committee/past/2023-24/natalie-roberts.webp",
+        "socials": {}
+      },
+      {
+        "id": "kevin-wu",
+        "name": "Kevin Wu",
+        "role": "Secretary",
+        "imageUrl": "/committee/past/2023-24/kevin-wu.webp",
+        "socials": {}
+      },
+      {
+        "id": "dylan-manning",
+        "name": "Dylan Manning",
+        "role": "Technical Officer",
+        "imageUrl": "/committee/past/2023-24/dylan-manning.webp",
+        "socials": {
+          "LinkedIn": "https://www.linkedin.com/in/dylan-manning-73a5ab287/"
+        }
+      },
+      {
+        "id": "lucas-madle",
+        "name": "Lucas Madle",
+        "role": "Social Events Coordinator",
+        "imageUrl": "/committee/past/2023-24/lucas-madle.webp",
+        "socials": {}
+      },
+      {
+        "id": "akeylah-hollow",
+        "name": "Akeylah Hollow",
+        "role": "Technical Events Coordinator",
+        "imageUrl": "/committee/past/2023-24/akeylah-hollow.webp",
+        "socials": {}
+      },
+      {
+        "id": "nawar",
+        "name": "Nawar",
+        "role": "Hackathons Coordinator",
+        "imageUrl": "/committee/past/2023-24/nawar.webp",
+        "socials": {}
+      },
+      {
+        "id": "tom-stuart",
+        "name": "Tom Stuart",
+        "role": "Sports Officer",
+        "imageUrl": "/committee/past/2023-24/tom-stuart.webp",
+        "socials": {}
+      },
+      {
+        "id": "mariam-ali",
+        "name": "Mariam Ali",
+        "role": "Publicity Officer",
+        "imageUrl": "/committee/past/2023-24/mariam-ali.webp",
+        "socials": {}
+      },
+      {
+        "id": "muskan-sharma",
+        "name": "Muskan Sharma",
+        "role": "Publicity Officer",
+        "imageUrl": "/committee/past/2023-24/muskan-sharma.webp",
+        "socials": {}
+      },
+      {
+        "id": "halle-gordon-jeary",
+        "name": "Halle Gordon-Jeary",
+        "role": "Integrated Masters Year Rep",
+        "imageUrl": "/committee/past/2023-24/halle-gordon-jeary.webp",
+        "socials": {}
+      },
+      {
+        "id": "liam-dormon",
+        "name": "Liam Dormon",
+        "role": "2nd Year Rep",
+        "imageUrl": "/committee/past/2023-24/liam-dormon.webp",
+        "socials": {}
+      },
+      {
+        "id": "erik-lippert",
+        "name": "Erik Lippert",
+        "role": "1st Year Rep",
+        "imageUrl": "/committee/past/2023-24/erik-lippert.webp",
+        "socials": {
+          "LinkedIn": "https://www.linkedin.com/in/erik-lippert/"
+        }
+      }
+    ]
+  },
+  {
+    "year": "2022-23",
+    "members": [
+      {
+        "id": "anna-penny",
+        "name": "Anna Penny",
+        "role": "President",
+        "imageUrl": "/committee/past/2022-23/anna-penny.webp",
+        "socials": {
+          "LinkedIn": "https://www.linkedin.com/in/afpenny/"
+        }
+      },
+      {
+        "id": "owen-cook",
+        "name": "Owen Cook",
+        "role": "Vice-President",
+        "imageUrl": "/committee/past/2022-23/owen-cook.webp",
+        "socials": {
+          "Instagram": "https://instagram.com/owen.103"
+        }
+      },
+      {
+        "id": "sam-felton",
+        "name": "Sam Felton",
+        "role": "Secretary",
+        "imageUrl": "/committee/past/2022-23/sam-felton.webp",
+        "socials": {}
+      },
+      {
+        "id": "felix-randle",
+        "name": "Felix Randle",
+        "role": "Treasurer",
+        "imageUrl": "/committee/past/2022-23/felix-randle.webp",
+        "socials": {}
+      },
+      {
+        "id": "charlie-petch",
+        "name": "Charlie Petch",
+        "role": "Inclusions Officer",
+        "imageUrl": "/committee/past/2022-23/charlie-petch.webp",
+        "socials": {}
+      },
+      {
+        "id": "oscar-overton",
+        "name": "Oscar Overton",
+        "role": "Technical Officer",
+        "imageUrl": "/committee/past/2022-23/oscar-overton.webp",
+        "socials": {}
+      },
+      {
+        "id": "tom-stuart",
+        "name": "Tom Stuart",
+        "role": "Sports Officer",
+        "imageUrl": "/committee/past/2022-23/tom-stuart.webp",
+        "socials": {}
+      },
+      {
+        "id": "jacob-cummins",
+        "name": "Jacob Cummins",
+        "role": "Publicity Officer",
+        "imageUrl": "/committee/past/2022-23/jacob-cummins.webp",
+        "socials": {
+          "LinkedIn": "https://www.linkedin.com/in/jacob-cummins-71215918b/"
+        }
+      },
+      {
+        "id": "noor-elreidy",
+        "name": "Noor Elreidy",
+        "role": "Publicity Officer",
+        "imageUrl": null,
+        "socials": {}
+      },
+      {
+        "id": "lujain-hawsawi",
+        "name": "Lujain Hawsawi",
+        "role": "Events Officer (Hackathons)",
+        "imageUrl": "/committee/past/2022-23/lujain-hawsawi.webp",
+        "socials": {
+          "Instagram": "https://instagram.com/bluejane2000"
+        }
+      },
+      {
+        "id": "euan-inverarity",
+        "name": "Euan Inverarity",
+        "role": "Events Officer (Social)",
+        "imageUrl": "/committee/past/2022-23/euan-inverarity.webp",
+        "socials": {
+          "Instagram": "https://instagram.com/euology19",
+          "Snapchat": "https://snapchat.com/add/euology2",
+          "TikTok": "https://tiktok.com/@euolgoy"
+        }
+      },
+      {
+        "id": "cristian-popa",
+        "name": "Cristian Popa",
+        "role": "Events Officer (Technical)",
+        "imageUrl": "/committee/past/2022-23/cristian-popa.webp",
+        "socials": {}
+      },
+      {
+        "id": "ayeshmantha-wijayagunethilake",
+        "name": "Ayeshmantha Wijayagunethilake",
+        "role": "Post-Grad Rep",
+        "imageUrl": null,
+        "socials": {}
+      },
+      {
+        "id": "jack-eagles",
+        "name": "Jack Eagles",
+        "role": "3rd Year Rep",
+        "imageUrl": "/committee/past/2022-23/jack-eagles.webp",
+        "socials": {
+          "Instagram": "https://instagram.com/jackeagles2"
+        }
+      },
+      {
+        "id": "guy-regan",
+        "name": "Guy Regan",
+        "role": "3rd Year Rep",
+        "imageUrl": "/committee/past/2022-23/guy-regan.webp",
+        "socials": {}
+      },
+      {
+        "id": "jai-mistry",
+        "name": "Jai Mistry",
+        "role": "2nd Year Rep",
+        "imageUrl": "/committee/past/2022-23/jai-mistry.webp",
+        "socials": {
+          "Instagram": "https://instagram.com/jai_727"
+        }
+      },
+      {
+        "id": "lea-button",
+        "name": "Lea Button",
+        "role": "2nd Year Rep",
+        "imageUrl": "/committee/past/2022-23/lea-button.webp",
+        "socials": {
+          "LinkedIn": "https://www.linkedin.com/in/lea-button"
+        }
+      },
+      {
+        "id": "kush-makkapati",
+        "name": "Kush Makkapati",
+        "role": "2nd Year Rep",
+        "imageUrl": "/committee/past/2022-23/kush-makkapati.webp",
+        "socials": {}
+      },
+      {
+        "id": "eamonn-rolander",
+        "name": "Eamonn Rolander",
+        "role": "1st Year Rep",
+        "imageUrl": null,
+        "socials": {
+          "LinkedIn": "https://www.linkedin.com/in/eamonn-rolander/"
+        }
+      },
+      {
+        "id": "olivia-aurora",
+        "name": "Olivia Aurora",
+        "role": "1st Year Rep",
+        "imageUrl": null,
+        "socials": {}
+      },
+      {
+        "id": "tamanna-mishra",
+        "name": "Tamanna Mishra",
+        "role": "1st Year Rep",
+        "imageUrl": null,
+        "socials": {}
+      }
+    ]
+  },
+  {
+    "year": "2021-22",
+    "members": [
+      {
+        "id": "ben-ridings",
+        "name": "Ben Ridings",
+        "role": "President",
+        "imageUrl": "/committee/past/2021-22/ben-ridings.webp",
+        "socials": {}
+      },
+      {
+        "id": "felix-randle",
+        "name": "Felix Randle",
+        "role": "Vice President",
+        "imageUrl": "/committee/past/2021-22/felix-randle.webp",
+        "socials": {
+          "LinkedIn": "https://www.linkedin.com/in/felix-randle/"
+        }
+      },
+      {
+        "id": "jameel-chagpar",
+        "name": "Jameel Chagpar",
+        "role": "Finance & Development Officer",
+        "imageUrl": "/committee/past/2021-22/jameel-chagpar.webp",
+        "socials": {}
+      },
+      {
+        "id": "charlie-turner",
+        "name": "Charlie Turner",
+        "role": "Operations Officer",
+        "imageUrl": "/committee/past/2021-22/charlie-turner.webp",
+        "socials": {}
+      },
+      {
+        "id": "alex-cooper",
+        "name": "Alex Cooper",
+        "role": "Inclusions Officer",
+        "imageUrl": "/committee/past/2021-22/alex-cooper.webp",
+        "socials": {}
+      },
+      {
+        "id": "anna-penny",
+        "name": "Anna Penny",
+        "role": "Publicity Officer",
+        "imageUrl": "/committee/past/2021-22/anna-penny.webp",
+        "socials": {
+          "LinkedIn": "https://www.linkedin.com/in/afpenny/"
+        }
+      },
+      {
+        "id": "jacob-cummins",
+        "name": "Jacob Cummins",
+        "role": "Publicity Officer",
+        "imageUrl": "/committee/past/2021-22/jacob-cummins.webp",
+        "socials": {}
+      },
+      {
+        "id": "oscar-overton",
+        "name": "Oscar Overton",
+        "role": "Technical Officer",
+        "imageUrl": "/committee/past/2021-22/oscar-overton.webp",
+        "socials": {}
+      },
+      {
+        "id": "james-yeung",
+        "name": "James Yeung",
+        "role": "Sports Officer",
+        "imageUrl": "/committee/past/2021-22/james-yeung.webp",
+        "socials": {}
+      },
+      {
+        "id": "seb-southwell",
+        "name": "Seb Southwell",
+        "role": "Events Coordinator - Technical",
+        "imageUrl": "/committee/past/2021-22/seb-southwell.webp",
+        "socials": {}
+      },
+      {
+        "id": "natalie-roberts",
+        "name": "Natalie Roberts",
+        "role": "Events Coordinator - Social",
+        "imageUrl": "/committee/past/2021-22/natalie-roberts.webp",
+        "socials": {}
+      },
+      {
+        "id": "sophie-dillon",
+        "name": "Sophie Dillon",
+        "role": "General Committee Member - Third Year",
+        "imageUrl": "/committee/past/2021-22/sophie-dillon.webp",
+        "socials": {
+          "LinkedIn": "https://www.linkedin.com/in/sophie-dillon-004919168/"
+        }
+      },
+      {
+        "id": "luke-jones",
+        "name": "Luke Jones",
+        "role": "General Committee Member - Third Year",
+        "imageUrl": "/committee/past/2021-22/luke-jones.webp",
+        "socials": {}
+      },
+      {
+        "id": "john-howell",
+        "name": "John Howell",
+        "role": "General Committee Member - Third Year",
+        "imageUrl": "/committee/past/2021-22/john-howell.webp",
+        "socials": {}
+      },
+      {
+        "id": "zac-jones",
+        "name": "Zac Jones",
+        "role": "General Committee Member - Second Year",
+        "imageUrl": "/committee/past/2021-22/zac-jones.webp",
+        "socials": {}
+      },
+      {
+        "id": "robert-pultea",
+        "name": "Robert Pultea",
+        "role": "General Committee Member - Second Year",
+        "imageUrl": "/committee/past/2021-22/robert-pultea.webp",
+        "socials": {}
+      },
+      {
+        "id": "kush-makkapati",
+        "name": "Kush Makkapati",
+        "role": "General Committee Member - First Year",
+        "imageUrl": "/committee/past/2021-22/kush-makkapati.webp",
+        "socials": {
+          "LinkedIn": "https://www.linkedin.com/in/kush-m/"
+        }
+      }
+    ]
+  },
+  {
+    "year": "2020-21",
+    "members": [
+      {
+        "id": "bhavesh-prajapat",
+        "name": "Bhavesh Prajapat",
+        "role": "President",
+        "imageUrl": "/committee/past/2020-21/bhavesh-prajapat.webp",
+        "socials": {
+          "Instagram": "https://www.instagram.com/itsbhav/",
+          "LinkedIn": "https://www.linkedin.com/in/bhavesh-prajapat/"
+        }
+      },
+      {
+        "id": "ben-ridings",
+        "name": "Ben Ridings",
+        "role": "Secretary",
+        "imageUrl": "/committee/past/2020-21/ben-ridings.webp",
+        "socials": {}
+      },
+      {
+        "id": "alex-cooper",
+        "name": "Alex Cooper",
+        "role": "Inclusions Officer",
+        "imageUrl": "/committee/past/2020-21/alex-cooper.webp",
+        "socials": {}
+      },
+      {
+        "id": "halle-gordon-jeary",
+        "name": "Halle Gordon-Jeary",
+        "role": "Treasurer",
+        "imageUrl": "/committee/past/2020-21/halle-gordon-jeary.webp",
+        "socials": {}
+      },
+      {
+        "id": "anna-penny",
+        "name": "Anna Penny",
+        "role": "(Technical) Events Coordinator",
+        "imageUrl": "/committee/past/2020-21/anna-penny.webp",
+        "socials": {
+          "LinkedIn": "https://www.linkedin.com/in/afpenny/"
+        }
+      },
+      {
+        "id": "sophie-dillon",
+        "name": "Sophie Dillon",
+        "role": "Events Coordinator",
+        "imageUrl": "/committee/past/2020-21/sophie-dillon.webp",
+        "socials": {}
+      },
+      {
+        "id": "tom-jarman",
+        "name": "Tom Jarman",
+        "role": "Publicity Officer",
+        "imageUrl": "/committee/past/2020-21/tom-jarman.webp",
+        "socials": {
+          "Facebook": "https://www.facebook.com/tom.jarman.3",
+          "LinkedIn": "https://www.linkedin.com/in/tom-jarman7/"
+        }
+      },
+      {
+        "id": "ilgin-okan",
+        "name": "Ilgin Okan",
+        "role": "General Committee Member",
+        "imageUrl": "/committee/past/2020-21/ilgin-okan.webp",
+        "socials": {}
+      },
+      {
+        "id": "simon-bone",
+        "name": "Simon Bone",
+        "role": "4th Year Rep",
+        "imageUrl": "/committee/past/2020-21/simon-bone.webp",
+        "socials": {}
+      },
+      {
+        "id": "william-lee",
+        "name": "William Lee",
+        "role": "General Committee Member",
+        "imageUrl": "/committee/past/2020-21/william-lee.webp",
+        "socials": {}
+      },
+      {
+        "id": "charlie-turner",
+        "name": "Charlie Turner",
+        "role": "Publicity Officer",
+        "imageUrl": "/committee/past/2020-21/charlie-turner.webp",
+        "socials": {}
+      },
+      {
+        "id": "felix-randle",
+        "name": "Felix Randle",
+        "role": "2nd-Year Rep",
+        "imageUrl": "/committee/past/2020-21/felix-randle.webp",
+        "socials": {}
+      },
+      {
+        "id": "markus-teimann",
+        "name": "Markus Teimann",
+        "role": "First Year Rep",
+        "imageUrl": "/committee/past/2020-21/markus-teimann.webp",
+        "socials": {}
+      },
+      {
+        "id": "nick-whyatt",
+        "name": "Nick Whyatt",
+        "role": "First Year Rep",
+        "imageUrl": null,
+        "socials": {}
+      }
+    ]
+  },
+  {
+    "year": "2019-20",
+    "members": [
+      {
+        "id": "alex-yates",
+        "name": "Alex Yates",
+        "role": "President",
+        "imageUrl": "/committee/past/2019-20/alex-yates.webp",
+        "socials": {}
+      },
+      {
+        "id": "bhav-prajapat",
+        "name": "Bhav Prajapat",
+        "role": "Vice President & Secretary",
+        "imageUrl": "/committee/past/2019-20/bhav-prajapat.webp",
+        "socials": {}
+      },
+      {
+        "id": "simon-bone",
+        "name": "Simon Bone",
+        "role": "Treasurer",
+        "imageUrl": "/committee/past/2019-20/simon-bone.webp",
+        "socials": {}
+      },
+      {
+        "id": "chloe-jambor",
+        "name": "Chloe Jambor",
+        "role": "Inclusions Officer & Events Organiser",
+        "imageUrl": "/committee/past/2019-20/chloe-jambor.webp",
+        "socials": {}
+      },
+      {
+        "id": "sam-west",
+        "name": "Sam West",
+        "role": "Events Organiser",
+        "imageUrl": "/committee/past/2019-20/sam-west.webp",
+        "socials": {}
+      },
+      {
+        "id": "rachel-smith",
+        "name": "Rachel Smith",
+        "role": "Publicity Officer",
+        "imageUrl": "/committee/past/2019-20/rachel-smith.webp",
+        "socials": {}
+      },
+      {
+        "id": "halle-gordon-jeary",
+        "name": "Halle Gordon-Jeary",
+        "role": "Sports Secretary",
+        "imageUrl": "/committee/past/2019-20/halle-gordon-jeary.webp",
+        "socials": {}
+      },
+      {
+        "id": "ben-ridings",
+        "name": "Ben Ridings",
+        "role": "First Year Rep",
+        "imageUrl": "/committee/past/2019-20/ben-ridings.webp",
+        "socials": {}
+      }
+    ]
+  },
+  {
+    "year": "2018-19",
+    "members": [
+      {
+        "id": "russell-penn",
+        "name": "Russell Penn",
+        "role": "President",
+        "imageUrl": "/committee/past/2018-19/russell-penn.webp",
+        "socials": {}
+      },
+      {
+        "id": "alex-yates",
+        "name": "Alex Yates",
+        "role": "Secretary",
+        "imageUrl": "/committee/past/2018-19/alex-yates.webp",
+        "socials": {}
+      },
+      {
+        "id": "rafael-cavagnoli",
+        "name": "Rafael Cavagnoli",
+        "role": "Treasurer",
+        "imageUrl": "/committee/past/2018-19/rafael-cavagnoli.webp",
+        "socials": {}
+      },
+      {
+        "id": "tiggy-carr",
+        "name": "Tiggy Carr",
+        "role": "Inclusions Officer",
+        "imageUrl": "/committee/past/2018-19/tiggy-carr.webp",
+        "socials": {}
+      },
+      {
+        "id": "barnabas-hermesz",
+        "name": "Barnabas Hermesz",
+        "role": "Events Organiser",
+        "imageUrl": "/committee/past/2018-19/barnabas-hermesz.webp",
+        "socials": {}
+      },
+      {
+        "id": "bhavesh-prajapat",
+        "name": "Bhavesh Prajapat",
+        "role": "Publicity Officer",
+        "imageUrl": "/committee/past/2018-19/bhavesh-prajapat.webp",
+        "socials": {}
+      }
+    ]
+  },
+  {
+    "year": "2017-18",
+    "members": [
+      {
+        "id": "rob-ede",
+        "name": "Rob Ede",
+        "role": "President",
+        "imageUrl": "/committee/past/2017-18/rob-ede.webp",
+        "socials": {}
+      },
+      {
+        "id": "jodi-swift",
+        "name": "Jodi Swift",
+        "role": "Secretary",
+        "imageUrl": "/committee/past/2017-18/jodi-swift.webp",
+        "socials": {}
+      },
+      {
+        "id": "tom-thomas-litman",
+        "name": "Tom Thomas-Litman",
+        "role": "Treasurer",
+        "imageUrl": "/committee/past/2017-18/tom-thomas-litman.webp",
+        "socials": {}
+      },
+      {
+        "id": "james-webb",
+        "name": "James Webb",
+        "role": "Inclusions Officer",
+        "imageUrl": "/committee/past/2017-18/james-webb.webp",
+        "socials": {}
+      },
+      {
+        "id": "blayze-milward",
+        "name": "Blayze Milward",
+        "role": "Events Coordinator",
+        "imageUrl": "/committee/past/2017-18/blayze-milward.webp",
+        "socials": {}
+      },
+      {
+        "id": "louis-thorpe-monaghan",
+        "name": "Louis Thorpe-Monaghan",
+        "role": "Media Team",
+        "imageUrl": "/committee/past/2017-18/louis-thorpe-monaghan.webp",
+        "socials": {}
+      },
+      {
+        "id": "russell-penn",
+        "name": "Russell Penn",
+        "role": "Events Coordinator",
+        "imageUrl": "/committee/past/2017-18/russell-penn.webp",
+        "socials": {}
+      },
+      {
+        "id": "eeshan-jaiswal",
+        "name": "Eeshan Jaiswal",
+        "role": "General Committee",
+        "imageUrl": "/committee/past/2017-18/eeshan-jaiswal.webp",
+        "socials": {}
+      },
+      {
+        "id": "alex-yates",
+        "name": "Alex Yates",
+        "role": "Organiser",
+        "imageUrl": "/committee/past/2017-18/alex-yates.webp",
+        "socials": {}
+      },
+      {
+        "id": "tiggy-carr",
+        "name": "Tiggy Carr",
+        "role": "Organiser",
+        "imageUrl": "/committee/past/2017-18/tiggy-carr.webp",
+        "socials": {}
+      }
+    ]
+  },
+  {
+    "year": "2016-17",
+    "members": [
+      {
+        "id": "andy-tyler",
+        "name": "Andy Tyler",
+        "role": "President",
+        "imageUrl": null,
+        "socials": {}
+      },
+      {
+        "id": "ben-clegg",
+        "name": "Ben Clegg",
+        "role": "Vice President",
+        "imageUrl": null,
+        "socials": {}
+      },
+      {
+        "id": "abby-smith",
+        "name": "Abby Smith",
+        "role": "Secretary",
+        "imageUrl": null,
+        "socials": {}
+      },
+      {
+        "id": "james-webb",
+        "name": "James Webb",
+        "role": "Social Secretary",
+        "imageUrl": null,
+        "socials": {}
+      },
+      {
+        "id": "billy-dawson",
+        "name": "Billy Dawson",
+        "role": "Inclusions Officer",
+        "imageUrl": null,
+        "socials": {}
+      },
+      {
+        "id": "tom-borcherds",
+        "name": "Tom Borcherds",
+        "role": "Treasurer",
+        "imageUrl": null,
+        "socials": {}
+      },
+      {
+        "id": "rob-ede",
+        "name": "Rob Ede",
+        "role": "Technical Events Coordinator, Media Team",
+        "imageUrl": null,
+        "socials": {}
+      },
+      {
+        "id": "joshua-case",
+        "name": "Joshua Case",
+        "role": "Media Team",
+        "imageUrl": null,
+        "socials": {}
+      },
+      {
+        "id": "louis-thorpe-monaghan",
+        "name": "Louis Thorpe-Monaghan",
+        "role": "Media Team",
+        "imageUrl": null,
+        "socials": {}
+      },
+      {
+        "id": "martin-cnobel",
+        "name": "Martin Cnobel",
+        "role": "Company Interactions Officer",
+        "imageUrl": null,
+        "socials": {}
+      },
+      {
+        "id": "kai-barclay",
+        "name": "Kai Barclay",
+        "role": "Outreach Officer",
+        "imageUrl": null,
+        "socials": {}
+      }
+    ]
+  }
+]
