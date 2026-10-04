@@ -1,11 +1,12 @@
 import Image from "next/image";
+import type { CommitteeMember } from "@/types/content";
 import { committee } from "@/data/committee";
 import { ExternalLink } from "./external-link";
 
-export function CommitteeGrid() {
+export function CommitteeGrid({ members = committee }: { members?: CommitteeMember[] }) {
   return (
     <div className="committee-grid">
-      {committee.map((member) => (
+      {members.map((member) => (
         <article className="committee-card" key={member.id}>
           <div className="committee-portrait">
             {member.imageUrl ? (
@@ -27,13 +28,15 @@ export function CommitteeGrid() {
           </div>
           <span className="eyebrow">{member.role}</span>
           <h3>{member.name}</h3>
-          {Object.entries(member.socials)
-            .filter(([, url]) => /^https?:\/\//i.test(url))
-            .map(([label, url]) => (
-              <ExternalLink href={url} key={label} className="text-link">
-                {label}
-              </ExternalLink>
-            ))}
+          <div className="committee-links">
+            {Object.entries(member.socials)
+              .filter(([, url]) => /^https?:\/\//i.test(url))
+              .map(([label, url]) => (
+                <ExternalLink href={url} key={label} className="text-link">
+                  {label}
+                </ExternalLink>
+              ))}
+          </div>
         </article>
       ))}
     </div>

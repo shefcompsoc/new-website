@@ -3,6 +3,7 @@ import Link from "next/link";
 import { CommitteeGrid } from "@/components/committee-grid";
 import { PageHeading } from "@/components/page-heading";
 import { Supporters } from "@/components/supporters";
+import { formatYear, pastCommittees } from "@/data/past-committees";
 
 export const metadata = {
   title: "About",
@@ -69,6 +70,28 @@ export default function AboutPage() {
         </Link>
       </section>
       <Supporters />
+      <section className="section-block" id="previous-committees">
+        <div className="section-title">
+          <h2>Previous committees</h2>
+          <span className="eyebrow">Since 2016</span>
+        </div>
+        <ul className="year-list">
+          {pastCommittees.map(({ year, members }) => {
+            const president = members.find((member) => member.role === "President");
+            return (
+              <li key={year}>
+                <Link href={`/committee/${year}`}>
+                  <strong>{formatYear(year)}</strong>
+                  <span>
+                    {president ? `President: ${president.name}` : "Committee"} &middot; {members.length}{" "}
+                    members
+                  </span>
+                </Link>
+              </li>
+            );
+          })}
+        </ul>
+      </section>
     </div>
   );
 }
