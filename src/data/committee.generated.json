@@ -1,0 +1,100 @@
+[
+  {
+    "id": "roshan-p",
+    "Name": "Roshan Prabhu",
+    "Photo": "/committee/current-roshan-p.webp",
+    "Role": "President",
+    "Social Media Link": null
+  },
+  {
+    "id": "erik",
+    "Name": "Erik",
+    "Photo": "/committee/current-erik.webp",
+    "Role": "Vice-President",
+    "Social Media Link": null
+  },
+  {
+    "id": "victor",
+    "Name": "Victor",
+    "Photo": "/committee/current-victor.webp",
+    "Role": "Secretary",
+    "Social Media Link": null
+  },
+  {
+    "id": "austin",
+    "Name": "Austin",
+    "Photo": "/committee/current-austin.webp",
+    "Role": "Treasurer",
+    "Social Media Link": null
+  },
+  {
+    "id": "liz",
+    "Name": "Liz",
+    "Photo": "/committee/current-liz.webp",
+    "Role": "Social Events Coordinator",
+    "Social Media Link": null
+  },
+  {
+    "id": "rithesh",
+    "Name": "Rithesh",
+    "Photo": "/committee/current-rithesh.webp",
+    "Role": "Technical Events Coordinator",
+    "Social Media Link": null
+  },
+  {
+    "id": "euan",
+    "Name": "Euan",
+    "Photo": "/committee/current-euan.webp",
+    "Role": "Hackathon Events Coordinator",
+    "Social Media Link": null
+  },
+  {
+    "id": "jack",
+    "Name": "Jack",
+    "Photo": "/committee/current-jack.webp",
+    "Role": "Technical Officer",
+    "Social Media Link": null
+  },
+  {
+    "id": "oscar",
+    "Name": "Oscar",
+    "Photo": "/committee/current-oscar.webp",
+    "Role": "Sports Officer",
+    "Social Media Link": null
+  },
+  {
+    "id": "elizabeth",
+    "Name": "Elizabeth",
+    "Photo": "/committee/current-elizabeth.webp",
+    "Role": "Inclusions Officer + Quartermaster",
+    "Social Media Link": null
+  },
+  {
+    "id": "dini",
+    "Name": "Dini",
+    "Photo": "/committee/current-dini.webp",
+    "Role": "Publicity Officer",
+    "Social Media Link": null
+  },
+  {
+    "id": "tanya",
+    "Name": "Tanya",
+    "Photo": "/committee/current-tanya.webp",
+    "Role": "Publicity Officer",
+    "Social Media Link": null
+  },
+  {
+    "id": "sam",
+    "Name": "Sam",
+    "Photo": "/committee/current-sam.webp",
+    "Role": "Sponsor Liaison",
+    "Social Media Link": null
+  },
+  {
+    "id": "owen",
+    "Name": "Owen",
+    "Photo": "/committee/current-owen.webp",
+    "Role": "PhD Rep",
+    "Social Media Link": null
+  }
+]

@@ -1,5 +1,6 @@
-export const metadata = { title: "Resources" };
+import { redirect } from "next/navigation";
+import { contact } from "@/data/contact";
 
 export default function ResourcesPage() {
-  return <h1 className="p-8 text-2xl font-semibold">Resources</h1>;
+  redirect(contact.resources);
 }

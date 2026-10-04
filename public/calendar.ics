@@ -1,0 +1,201 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sheffield CompSoc//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Sheffield CompSoc
+X-WR-CALDESC:Events from the University of Sheffield Computer Science Socie
+ ty
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:3c98a4ec2ff0805a9710dbb4c6dd8760@shefcompsoc.org
+DTSTAMP:20260930T092242Z
+DTSTART:20260921T110000Z
+DTEND:20260921T130000Z
+SUMMARY:Welcome Talk
+DESCRIPTION:A Welcome Talk to First Year and PG Students\n\nhttps://shefcom
+ psoc.uk/events/welcome-talk
+LOCATION:The Diamond LT3 & LT4
+URL:https://shefcompsoc.uk/events/welcome-talk
+SEQUENCE:212104260
+CATEGORIES:SOCIAL
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:3c98a4ec2ff080c09c29de95fbb00685@shefcompsoc.org
+DTSTAMP:20260930T092242Z
+DTSTART:20260922T090000Z
+DTEND:20260922T150000Z
+SUMMARY:Activities Fair
+DESCRIPTION:Main Freshers Week Event\, come say hi to us in stall 24 :)\n\n
+ https://shefcompsoc.uk/events/activities-fair
+LOCATION:To be confirmed
+URL:https://shefcompsoc.uk/events/activities-fair
+SEQUENCE:212104320
+CATEGORIES:SOCIAL
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:3c78a4ec2ff080b1be49d8dbd22b957d@shefcompsoc.org
+DTSTAMP:20260930T092242Z
+DTSTART:20260922T090000Z
+DTEND:20260922T110000Z
+SUMMARY:PG Icebreaker
+DESCRIPTION:There might be a mini hackathon 👀\n\nhttps://shefcompsoc.uk/
+ events/pg-icebreaker
+LOCATION:The Diamond CR6
+URL:https://shefcompsoc.uk/events/pg-icebreaker
+SEQUENCE:212104320
+CATEGORIES:TECH
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:3d28a4ec2ff08026bd6bff03a0b41b05@shefcompsoc.org
+DTSTAMP:20260930T092242Z
+DTSTART:20260923T110000Z
+DTEND:20260923T130000Z
+SUMMARY:Freshers Meet and Greet
+DESCRIPTION:Just a chill meetup in one of our sponsored venues. We will be 
+ having a chat and having lunch together\n\nhttps://shefcompsoc.uk/events/f
+ reshers-meet-and-greet
+LOCATION:38 Mappin Street
+URL:https://shefcompsoc.uk/events/freshers-meet-and-greet
+SEQUENCE:212185620
+CATEGORIES:SOCIAL
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:3c98a4ec2ff0801085e9e25f7db2b069@shefcompsoc.org
+DTSTAMP:20260930T092242Z
+DTSTART:20260925T110000Z
+DTEND:20260925T130000Z
+SUMMARY:End of Week Social
+DESCRIPTION:Chill end of week social. Come and say Hi 👋 and feel free to
+  ask any questions you have. We will also have some games going so its mor
+ e lively\n\nhttps://shefcompsoc.uk/events/end-of-week-social
+LOCATION:Regent Court
+URL:https://shefcompsoc.uk/events/end-of-week-social
+SEQUENCE:212185560
+CATEGORIES:SOCIAL
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:3c98a4ec2ff080c0a136d2989bb99ba8@shefcompsoc.org
+DTSTAMP:20260930T092242Z
+DTSTART:20260925T170000Z
+DTEND:20260925T230000Z
+SUMMARY:Freshers Bar Crawl
+DESCRIPTION:Theme: Western (checkered shirt/leather boots/cowboy hat etc)\n
+ \nRoute 🛣️: \n• Edge Bar 19:00\n• Francis Newtons 19:40\n• Cave
+ ndish 20:20\n• Honky Tonks 21:00\n• Bierkeller 21:40\n• WSL 22:20\n\
+ nPotentially to Corp/or hop around west street\n\nhttps://shefcompsoc.uk/e
+ vents/freshers-bar-crawl
+LOCATION:To be confirmed
+URL:https://shefcompsoc.uk/events/freshers-bar-crawl
+SEQUENCE:212417040
+CATEGORIES:SOCIAL
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:3c78a4ec2ff080e99276d5070464d799@shefcompsoc.org
+DTSTAMP:20260930T092242Z
+DTSTART:20260926T160000Z
+DTEND:20260926T190000Z
+SUMMARY:Pizza Party (Weston Park)
+DESCRIPTION:Our annual\, BIGGEST fresher’s week event. Free Pizza 🍕 wi
+ th membership!! (we might have a guest to give our more freebies)\n\nWe wi
+ ll be hosting games for students to talk to one another. Super chill event
+ \, make sure to bring your picnic mats!\n\nhttps://shefcompsoc.uk/events/p
+ izza-party-weston-park
+LOCATION:Weston Park
+URL:https://shefcompsoc.uk/events/pizza-party-weston-park
+SEQUENCE:212578860
+CATEGORIES:SOCIAL
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:3d58a4ec2ff080dabc3bd5e0ec4eb997@shefcompsoc.org
+DTSTAMP:20260930T092242Z
+DTSTART:20260930T183000Z
+DTEND:20260930T203000Z
+SUMMARY:Pub Trip @ the Graduate with Hallam CompSoc
+DESCRIPTION:A chill evening with Hallam CompSoc - a great chance to meet ot
+ her computer scientists in the city and take a mid-week break!\n\nhttps://
+ shefcompsoc.uk/events/pub-trip-the-graduate-with-hallam-compsoc
+LOCATION:The Graduate Pub
+URL:https://shefcompsoc.uk/events/pub-trip-the-graduate-with-hallam-compsoc
+SEQUENCE:212773140
+CATEGORIES:SOCIAL
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:3d68a4ec2ff08012a6dcc3339a91a623@shefcompsoc.org
+DTSTAMP:20260930T092242Z
+DTSTART:20261001T143000Z
+DTEND:20261001T160000Z
+SUMMARY:Python GIAG
+DESCRIPTION:Give Python a Go! Get a head start by learning Python’s funda
+ mentals along with a live coding session and Kahoot quiz. No prior program
+ ming experience needed but bring your laptops to the session if you can.\n
+ \nhttps://shefcompsoc.uk/events/python-giag
+LOCATION:Geography Building\, Computer Room B04 (cap. 50)
+URL:https://shefcompsoc.uk/events/python-giag
+SEQUENCE:212843160
+CATEGORIES:TECH
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:3df8a4ec2ff080a7b78ef2236f3be510@shefcompsoc.org
+DTSTAMP:20260930T092242Z
+DTSTART:20261008T143000Z
+DTEND:20261008T160000Z
+SUMMARY:Numpy & Pandas Workshop
+DESCRIPTION:The two libraries behind every Data Science and Machine Learnin
+ g pipeline. Learn how numpy & pandas turn messy datasets into insights\n\n
+ https://shefcompsoc.uk/events/numpy-pandas-workshop
+LOCATION:To be confirmed
+URL:https://shefcompsoc.uk/events/numpy-pandas-workshop
+SEQUENCE:212920080
+CATEGORIES:TECH
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:3c78a4ec2ff08072899fd37a079ee994@shefcompsoc.org
+DTSTAMP:20260930T092242Z
+DTSTART:20261009T184500Z
+DTEND:20261009T230000Z
+SUMMARY:White T-Shirt Barcrawl
+DESCRIPTION:CompSoc's highly-anticipated annual White T-Shirt barcrawl! Get
+  a branded CompSoc T-Shirt for £6.50! You can collect T-shirts on the day
+  either at lunchtime or during predrinks at Steelworks on the day!\nRoute:
+ \n• Steelworks 7:45\n• Grappa 8:30\n• Molly Malones 9:10\n• WSL 10
+ :00\n• Steinhaus 10:40\n• Corp 11:30\n\nhttps://shefcompsoc.uk/events/
+ white-t-shirt-barcrawl
+LOCATION:Steelworks
+URL:https://shefcompsoc.uk/events/white-t-shirt-barcrawl
+SEQUENCE:212773380
+CATEGORIES:SOCIAL
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:3c78a4ec2ff080f097d8cbf0f6749a87@shefcompsoc.org
+DTSTAMP:20260930T092242Z
+DTSTART:20261015T200000Z
+DTEND:20261015T224500Z
+SUMMARY:Video game Barcrawl (Ends at Foundry for DYSO)
+DESCRIPTION:A CompSoc barcrawl that finishes at Foundry for Dance Your Socs
+  Off (DYSO) - a club night for all the university societies! The theme is 
+ “Game Over” so feel free to bring your friends and dress up as a video
+  game character! We will be selling tickets for DYSO - there are ONLY 20 s
+ o make sure to get them quick!\n\nTickets: 7.00 GBP\n\nhttps://shefcompsoc
+ .uk/events/video-game-barcrawl-ends-at-foundry-for-dyso
+LOCATION:The Cavendish
+URL:https://shefcompsoc.uk/events/video-game-barcrawl-ends-at-foundry-for-d
+ yso
+SEQUENCE:212923320
+CATEGORIES:SOCIAL
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

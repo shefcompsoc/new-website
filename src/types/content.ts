@@ -1,32 +1,29 @@
-/** Shapes for site content. Entries live in `src/data`, files live in Drive. */
-
 export type ResourceType = "cv" | "notes";
 
-export type EventType = "workshop" | "talk" | "social" | "hackathon" | "other";
+export type EventType = "social" | "tech";
+
+export type EventStatus = "published" | "cancelled";
 
 export interface Event {
   id: string;
+  uid: string;
   name: string;
   type: EventType;
+  status: EventStatus;
   location: string;
-  tagline: string | null;
   description: string | null;
-  /** ISO 8601. */
   startsAt: string;
   endsAt: string | null;
-  imageUrl: string | null;
-  /** Price in pence. 0 means free. */
-  paid: number;
+  images: string[];
+  price: number;
   ticketLink: string | null;
-  /** Workshop repo, slides, etc. */
-  resourcesLink: string | null;
+  updatedAt: string;
 }
 
 export interface CommitteeMember {
   id: string;
   name: string;
   role: string;
-  /** Academic year, e.g. "2025/26". */
   year: string;
   imageUrl: string | null;
   socials: Record<string, string>;
@@ -48,22 +45,26 @@ export interface Award {
 export interface Resource {
   id: string;
   title: string;
-  /** Shareable link to the file in the committee Drive folder. */
   url: string;
-  /** Display name of whoever submitted it. Not a user reference. */
   owner: string;
   type: ResourceType;
-  /** Module code for notes, graduation year for CVs. */
   year: string;
-  /** YYYY-MM-DD. */
   dateOfUpload: string;
   lastUpdated: string;
+}
+
+export interface VenueDeal {
+  id: string;
+  venue: string;
+  summary: string;
+  condition?: string;
+  deals: string[];
+  footnote?: string;
 }
 
 export interface PartnerProject {
   id: string;
   name: string;
-  /** The organisation the project is with. */
   org: string;
   description: string | null;
   link: string | null;
