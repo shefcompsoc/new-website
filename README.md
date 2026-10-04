@@ -28,7 +28,10 @@ Committee, awards, FAQs and partner projects are edited directly in `src/data`.
 ## Other commands
 
 ```bash
-npm test       # run tests
-npm run lint   # lint
-npm run build  # production build
+npm test             # run tests
+npm run lint         # lint
+npm run build        # production build
+npm run test:routes  # check every page loads, after a build
 ```
+
+See [TESTING.md](TESTING.md) for what the tests cover.

@@ -11,7 +11,6 @@ concurrency:
 
 permissions:
   contents: write
-  issues: write
 
 jobs:
   sync:
@@ -37,29 +36,10 @@ jobs:
           npm test
           npm run lint
           npm run build
+          npm run test:routes
       - if: steps.diff.outputs.changed == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git commit -m "chore: sync content from notion"
           git push
-      - if: failure()
-        env:
-          GH_TOKEN: ${{ github.token }}
-          GH_REPO: ${{ github.repository }}
-        run: |
-          open=$(gh issue list --state open --search "Notion sync failed in:title" --json number --jq '.[0].number')
-          run="$GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID"
-          if [ -n "$open" ]; then
-            gh issue comment "$open" --body "Failed again: $run"
-          else
-            gh issue create --title "Notion sync failed" --body "The hourly Notion sync failed, so the site is not getting content updates. Check the run: $run"
-          fi
-      - if: success()
-        env:
-          GH_TOKEN: ${{ github.token }}
-          GH_REPO: ${{ github.repository }}
-        run: |
-          for n in $(gh issue list --state open --search "Notion sync failed in:title" --json number --jq '.[].number'); do
-            gh issue close "$n" --comment "Sync is working again."
-          done
