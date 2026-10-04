@@ -132,22 +132,7 @@
     "images": [],
     "price": 0,
     "ticketLink": null,
-    "updatedAt": "2026-09-29T11:06:00.000Z"
-  },
-  {
-    "id": "numpy-pandas-workshop",
-    "uid": "3df8a4ec2ff080a7b78ef2236f3be510",
-    "name": "Numpy & Pandas Workshop",
-    "type": "tech",
-    "status": "published",
-    "location": "To be confirmed",
-    "description": "The two libraries behind every Data Science and Machine Learning pipeline. Learn how numpy & pandas turn messy datasets into insights",
-    "startsAt": "2026-10-08T14:30:00.000Z",
-    "endsAt": "2026-10-08T16:00:00.000Z",
-    "images": [],
-    "price": 0,
-    "ticketLink": null,
-    "updatedAt": "2026-09-30T08:28:00.000Z"
+    "updatedAt": "2026-10-01T14:03:00.000Z"
   },
   {
     "id": "white-t-shirt-barcrawl",
@@ -165,9 +150,9 @@
     "updatedAt": "2026-09-28T15:43:00.000Z"
   },
   {
-    "id": "video-game-barcrawl-ends-at-foundry-for-dyso",
+    "id": "dyso-video-game-barcrawl",
     "uid": "3c78a4ec2ff080f097d8cbf0f6749a87",
-    "name": "Video game Barcrawl (Ends at Foundry for DYSO)",
+    "name": "DYSO: Video game Barcrawl",
     "type": "social",
     "status": "published",
     "location": "The Cavendish",
@@ -177,6 +162,6 @@
     "images": [],
     "price": 7,
     "ticketLink": null,
-    "updatedAt": "2026-09-30T09:22:00.000Z"
+    "updatedAt": "2026-10-04T21:22:00.000Z"
   }
 ]
