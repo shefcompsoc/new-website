@@ -163,5 +163,50 @@
     "price": 7,
     "ticketLink": null,
     "updatedAt": "2026-10-15T09:34:00.000Z"
+  },
+  {
+    "id": "hackathon-prep-front-end",
+    "uid": "3d18a4ec2ff080418356c054a3b24d00",
+    "name": "Hackathon prep (Front end)",
+    "type": "tech",
+    "status": "published",
+    "location": "TBC",
+    "description": "Part 1 of the three-part hackathon series workshops. Getting ready for  Hacksheffield11? Join our Frontend Development Workshop to learn how to build user-friendly interfaces and bring your team's ideas to life. We’ll cover HTML, CSS, and JavaScript fundamentals, explore popular frontend frameworks and libraries, and show you how to connect your interface to APIs. You’ll also discover design tools like Figma and learn about responsive design, accessibility, and effective team collaboration. Gain practical knowledge to help you build and present a polished web application at your hackathon! Prior web development knowledge is helpful to have but not essential to attend.",
+    "startsAt": "2026-11-12T15:30:00.000Z",
+    "endsAt": "2026-11-12T17:00:00.000Z",
+    "images": [],
+    "price": 0,
+    "ticketLink": null,
+    "updatedAt": "2026-10-27T12:10:00.000Z"
+  },
+  {
+    "id": "hackathon-prep-backend",
+    "uid": "3d18a4ec2ff0807dbe0aecbed5fc2ffd",
+    "name": "Hackathon prep (Backend)",
+    "type": "tech",
+    "status": "published",
+    "location": "TBC",
+    "description": "Part 2 of the hackathon series workshops. Join our Backend Development Workshop to learn how to power your team's ideas behind the scenes. Explore how servers, databases, and APIs work together to build functional applications. We’ll cover backend fundamentals, handling requests and responses, connecting to databases, and integrating your backend with a frontend. Whether you're new to backend development or looking to strengthen your skills, this workshop will help you build reliable, functional applications and prepare for your next hackathon!",
+    "startsAt": "2026-11-19T15:30:00.000Z",
+    "endsAt": "2026-11-19T17:00:00.000Z",
+    "images": [],
+    "price": 0,
+    "ticketLink": null,
+    "updatedAt": "2026-10-27T12:10:00.000Z"
+  },
+  {
+    "id": "hackathon-prep-github-ai-devpost",
+    "uid": "3c78a4ec2ff080848b99f8a208e6d9ff",
+    "name": "Hackathon Prep (Github/AI/Devpost)",
+    "type": "tech",
+    "status": "published",
+    "location": "TBC",
+    "description": "The final part of the hackathon workshop series. This session focuses on how AI tools can accelerate your development process, from brainstorming ideas to writing and debugging code. Learn how to set up GitHub to manage your code, collaborate with teammates, and track changes throughout your project. We’ll also introduce Devpost, showing you how to document your project and prepare a compelling submission. Feel free to ask any questions you might have about Hacksheffield11.",
+    "startsAt": "2026-11-26T15:30:00.000Z",
+    "endsAt": "2026-11-26T17:00:00.000Z",
+    "images": [],
+    "price": 0,
+    "ticketLink": null,
+    "updatedAt": "2026-10-27T12:10:00.000Z"
   }
 ]
