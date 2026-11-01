@@ -170,14 +170,14 @@
     "name": "Hackathon prep (Front end)",
     "type": "tech",
     "status": "published",
-    "location": "TBC",
+    "location": "Diamond LT8",
     "description": "Part 1 of the three-part hackathon series workshops. Getting ready for  Hacksheffield11? Join our Frontend Development Workshop to learn how to build user-friendly interfaces and bring your team's ideas to life. We’ll cover HTML, CSS, and JavaScript fundamentals, explore popular frontend frameworks and libraries, and show you how to connect your interface to APIs. You’ll also discover design tools like Figma and learn about responsive design, accessibility, and effective team collaboration. Gain practical knowledge to help you build and present a polished web application at your hackathon! Prior web development knowledge is helpful to have but not essential to attend.",
     "startsAt": "2026-11-12T15:30:00.000Z",
     "endsAt": "2026-11-12T17:00:00.000Z",
     "images": [],
     "price": 0,
     "ticketLink": null,
-    "updatedAt": "2026-10-27T12:10:00.000Z"
+    "updatedAt": "2026-11-01T18:16:00.000Z"
   },
   {
     "id": "hackathon-prep-backend",
